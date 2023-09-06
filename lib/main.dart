@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -22,7 +21,7 @@ class _GameApplicationState extends State<GameApplication> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(fontFamily: 'vazri'),
+      theme: ThemeData(fontFamily: 'vazir'),
       home: Scaffold(
         appBar: AppBar(
           centerTitle: true,
