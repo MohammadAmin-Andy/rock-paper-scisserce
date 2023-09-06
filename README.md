@@ -1,16 +1,16 @@
-# rock_paper_scisserce
+## rock-paper-scisserce
 
-A new Flutter project.
+ Simple rock paper scissors game randomly and with stateful widget with flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Plaese wach my codes :)
 
-A few resources to get you started if this is your first Flutter project:
+## Photo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/MohammadAmin-Andy/rock-paper-scisserce/assets/113265902/614ad8fb-78a4-4835-8755-7a2f195ff6b8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video:
+
+https://github.com/MohammadAmin-Andy/rock-paper-scisserce/assets/113265902/273165d2-0d37-4acf-bdc0-2ed9e0891afb
+
